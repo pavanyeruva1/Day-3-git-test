@@ -1,2 +1,3 @@
 ## this is git reelated tutorial by
-## my name is pavan yeruva
+## my name is pavan yeruva 
+## gejgiee
